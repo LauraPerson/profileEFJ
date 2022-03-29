@@ -1,0 +1,83 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  color: #E9C46A;
+  font-family: 'Palette Mosaic', cursive;
+  font-size: 48px;
+  font-family: 'Hubballi', cursive;
+}
+
+h2 {
+  color: #2A9D8F;
+  font-family: 'Hubballi', cursive;
+  font-size: 32px;
+}
+
+p {
+  color: #264653;
+  font-size: 18px;
+  line-height: 1.5;
+  font-family: 'Roboto Mono', monospace;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+#profile {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+
+
+
+.card-white {
+  background-color: white;
+  width: 800px;
+  margin: 50px auto;
+  text-align: center;
+  box-shadow: 10px 10px 30px rgba(10, 0, 0, 0.6);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+
+
+#button {
+  padding: 10px;
+  background-color: #E9C46A;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline-block;
+}
+
+i {
+  font-size: 80px;
+  color: #E9C46A;
+  margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
